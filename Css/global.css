@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+html{
+    Scroll-behavior: smooth;
+}
+
+body {
+     font-family: "Barlow Condensed", sans-serif;
+}
+.container{
+    width: 85%;
+    margin: auto;
+    overflow: auto;
+}
+.float-left{
+    float: left;
+}
+.float-right{
+    float: right;
+}
+section{
+    padding: 40px 0;
+}
+.title{
+    text-align: center;
+    
+}
+.title h2{
+    font-size: 50px;
+    color: white;
+    margin-bottom: 30px;
+}
